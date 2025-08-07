@@ -87,7 +87,7 @@ Store results in `STRING/Cytoscape/`
 
 ---
 
-**Citations:**  
+**Reference:**  
 Original Paper: Wu, B., & Xi, S. (2021). Bioinformatics analysis of differentially expressed genes and pathways in the development of cervical cancer. BMC cancer, 21(1), 733. https://doi.org/10.1186/s12885-021-08412-4
 
 > Completed: May 5th 2025
