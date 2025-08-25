@@ -5,8 +5,8 @@ This repository contains the code and analysis to reproduce the results from the
 #### Authors: Poojitha Kolli, Dillen Wischmeier, Manjinder Kaur  
 
 ## Description:
-   This repository contains the full code, data processing steps, and analysis outputs used to reproduce the results of a published study on differential gene expression meta-analysis across three GEO datasets: GSE63514, GSE62417, and GSE138080. The workflow includes identification of differentially expressed genes (DEGs), functional enrichment, gene set enrichment analysis (GSEA), and protein-protein interaction (PPI) network construction and hub gene identification, following the procedures described in the original publication.
-
+   This repository contains the full code, data processing steps, and analysis outputs used to reproduce the results of a published study on differential gene expression meta-analysis across three GEO datasets: GSE63514, GSE62417, and GSE138080. The workflow includes identification of differentially expressed genes (DEGs), functional enrichment, gene set enrichment analysis (GSEA), and protein-protein interaction (PPI) network construction and hub gene identification. While following the procedures described in the original publication, updated software versions were used.  
+   
 ## Requirements:
 #### Programming Languages:  
 - R v4.3.3
